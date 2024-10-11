@@ -1,0 +1,9 @@
+{
+    "name": "auto-scaling",
+    "version": "1.0.0",
+    "author": "kanak",
+    "dependencies": {
+        "express":"4.21.1"
+    }
+
+}
